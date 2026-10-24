@@ -2,7 +2,7 @@
 
 An exploratory analysis of about 10,000 house listings in Jakarta to understand what drives prices, where houses are most and least expensive per m², and where first-time buyers can find the most space for their budget.
 
-![Dashboard](images/dashboard_jakarta_house.png)
+![Dashboard](dashboard_jakarta_house.png)
 
 ## Key Findings
 
